@@ -1,4 +1,5 @@
 import { seedTransactions } from "@/actions/seed";
+export const runtime = 'nodejs';
 
 
 
